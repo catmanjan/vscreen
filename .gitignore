@@ -1,0 +1,11 @@
+*.dex
+*.class
+bin/AndroidManifest.xml
+bin/dexedLibs/android-support-v4-3f4477f54341d5c5cbdadbcecbe9a1ce.jar
+bin/dexedLibs/cardboard-5ddb0d968aa721230ec18236c04d8163.jar
+bin/jarlist.cache
+bin/res/crunch/drawable-hdpi/ic_launcher.png
+bin/res/crunch/drawable-mdpi/ic_launcher.png
+bin/res/crunch/drawable-xhdpi/ic_launcher.png
+bin/resources.ap_
+bin/VScreen.apk
